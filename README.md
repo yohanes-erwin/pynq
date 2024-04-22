@@ -6,4 +6,5 @@ List of projcts:
 - axi_lite_multiplier
 - axi_dma_multiplier
 - axi_lite_gcd
+- axi_dma_gcd
 - ddr_image_invert
